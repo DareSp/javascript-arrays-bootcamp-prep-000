@@ -40,3 +40,4 @@ function destructivelyRemoveElementFromEndOfArray(array){
  
  var array=[0,1,2,3,4]
  console.log(array.length)
+ var sliced = array.slice(0,)
