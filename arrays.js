@@ -38,6 +38,9 @@ function destructivelyRemoveElementFromEndOfArray(array){
   return array
  }
  
+ function removeElementFromEndOfArray(array){
+   var sliced = array.slice(0,array.length-1)
+ }
  
 /* 
  var array=[0,1,2,3,4]
